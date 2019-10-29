@@ -5,6 +5,8 @@ body {
   text-align: center;
   height: 100vh;
   display: flex;
+  background-color: rebeccapurple;
+  transform: skewY(15deg);
 }
 
 .container {
@@ -17,4 +19,5 @@ h1 {
 
 img {
   width: 50vw;
+  box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.5);
 }
